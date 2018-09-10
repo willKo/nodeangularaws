@@ -1,4 +1,4 @@
 # nodeangularaws
 
-Node 8 image with angular cli and aws cli
+Node 8 image with angular cli and aws cli.
 
